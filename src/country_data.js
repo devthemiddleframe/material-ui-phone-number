@@ -1024,10 +1024,13 @@ const rawAllCountries = [
     'Palestine',
     ['middle-east'],
     'ps',
-    '9',
-    '+... ... ... ....',
-    1,
-    ['72', '70']
+    '970'
+  ],
+  [
+    'Palestine',
+    ['middle-east'],
+    'ps',
+    '972'
   ],
   [
     'Panama',
