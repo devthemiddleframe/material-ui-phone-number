@@ -654,13 +654,6 @@ const rawAllCountries = [
     '+... .. .......',
   ],
   [
-    'Israel',
-    ['middle-east'],
-    'il',
-    '972',
-    '+... ... ... ....',
-  ],
-  [
     'Italy',
     ['europe', 'european-union'],
     'it',
@@ -1031,7 +1024,10 @@ const rawAllCountries = [
     'Palestine',
     ['middle-east'],
     'ps',
-    '970',
+    '9',
+    '+... ... ... ....',
+    1,
+    ['72', '70']
   ],
   [
     'Panama',
